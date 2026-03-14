@@ -44,7 +44,7 @@ footer a {
 
 .wave {
   background: linear-gradient(to left, #0d8f9b, #0d8f9b);
-  min-height: 350px;
+  min-height: 450px;
   color: #fff;
   display: flex;
   flex-direction: column;
